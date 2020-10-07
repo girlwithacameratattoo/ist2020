@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Oglasi SYSTEM "oglasi.dtd">
+<Oglasi>
+
+<!-- Oglas 1 -->
+<Oglas kategorija="Automobili">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>11</mesec>
+        <godina>2020</godina>
+    </datum_isteka>
+    <cena valuta="eur">1500</cena>
+    <tekst>Fiat Punto 2003 1.3 MultiJet, servisna knjizica, zamenjen set kvacila pre 1000km, uradjen mali servis.</tekst>
+    <tag>
+        <tag1>Fiat</tag1>
+        <tag2>Dizel</tag2>
+        <tag3>Beograd</tag3>
+        <tag4>Punto</tag4>
+    </tag>
+    <email tip="privatni">nestorovic.jelena92@gmail.com</email>
+</Oglas>
+
+<!-- Oglas 2 -->
+<Oglas kategorija="Alati">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>12</mesec>
+        <godina>2020</godina>
+    </datum_isteka>
+    <cena valuta="din">2000</cena>
+    <tekst>Klesta Fixpoint za krimpovanje konektora RJ10,RJ11,RJ45</tekst>
+    <tag>
+        <tag1>Fixpoint</tag1>
+        <tag2>Klesta</tag2>
+        <tag3>Novi Sad</tag3>
+        <tag4>Krimpovanje</tag4>
+    </tag>
+    <email tip="sluzbeni">alati@gmail.com</email>
+</Oglas>
+
+<!-- Oglas 3 -->
+<Oglas kategorija="Fotografija">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>12</mesec>
+        <godina>2020</godina>
+    </datum_isteka>
+    <cena valuta="eur">50</cena>
+    <tekst>Fotografisanje decijih rodjendana,proslava, vencanja, za vise informacija kontakt</tekst>
+    <tag>
+        <tag1>Fotografija</tag1>
+        <tag2>Beograd</tag2>
+        <tag3>Proslave</tag3>
+    </tag>
+    <email tip="privatni">fotobg@gmail.com</email>
+</Oglas>
+
+<!-- Oglas 4 -->
+<Oglas kategorija="Automobili">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>12</mesec>
+        <godina>2020</godina>
+    </datum_isteka>
+    <cena valuta="eur">40000</cena>
+    <tekst>Ford Mustang Kabriolet 1966 oldtajmer,restauran u crvenoj boji</tekst>
+    <tag>
+        <tag1>Mustang</tag1>
+        <tag2>Oldtajmer</tag2>
+        <tag3>Sombor</tag3>
+        <tag4>Kabrio</tag4>
+    </tag>
+    <email tip="privatni">muslecars@gmail.com</email>
+</Oglas>
+
+<!-- Oglas 5 -->
+<Oglas kategorija="Telefoni">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>1</mesec>
+        <godina>2021</godina>
+    </datum_isteka>
+    <cena valuta="eur">300</cena>
+    <tekst>iPhone8 RED product,redak model u crvenoj boji,64GB za sve informacije kontakt</tekst>
+    <tag>
+        <tag1>iPhone</tag1>
+        <tag2>telefoni</tag2>
+        <tag3>Kraljevo</tag3>
+    </tag>
+    <email tip="sluzbeni">telefonikv@gmail.com</email>
+</Oglas>
+
+<!-- Oglas 6 -->
+<Oglas kategorija="Poducavanje">
+    <datum_isteka>
+        <dan>1</dan>
+        <mesec>3</mesec>
+        <godina>2021</godina>
+    </datum_isteka>
+    <cena valuta="din">1500</cena>
+    <tekst>Casovi matematike i elektrotehnike. Mogucnost spremanja za prijemni. Cena po dogovoru</tekst>
+    <tag>
+        <tag1>Matematika</tag1>
+        <tag2>casovi</tag2>
+        <tag3>zoom</tag3>
+    </tag>
+    <email tip="privatni">darko@gmail.com</email>
+</Oglas>
+
+
+
+
+
+</Oglasi>
